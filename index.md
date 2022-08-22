@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jeonghyeok Portfolio
 
 You can use the [editor on GitHub](https://github.com/Jeonghyeok16/Jeonghyeok-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
